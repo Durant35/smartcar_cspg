@@ -1,0 +1,3 @@
+# ignore code and doc branches while developing
+smartcar_cspg_code/
+smartcar_cspg_doc/
